@@ -1,6 +1,6 @@
-# 🌐 Rakuiina Printing — Website Resmi
+# 🌐 RakuiiNa Printing — Website Resmi
 
-Selamat datang di repository **Rakuiina Printing**, platform percetakan profesional yang menyediakan layanan cetak modern untuk berbagai kebutuhan bisnis, promosi, dan branding.
+Selamat datang di repository **RakuiiNa Printing**, platform percetakan profesional yang menyediakan layanan cetak modern untuk berbagai kebutuhan bisnis, promosi, dan branding.
 
 Website ini dibuat menggunakan **HTML** dan **CSS murni** dengan gaya **modern minimalis**, warna dominan biru, serta animasi lembut yang memberi kesan profesional seperti web e-commerce kelas atas.
 
