@@ -7,7 +7,7 @@ Website ini dibuat menggunakan **HTML** dan **CSS murni** dengan gaya **modern m
 ---
 
 ## 🚀 Demo Langsung
-🔗 **Kunjungi Website:** [https://USERNAME.github.io/rakuiina-printing/](https://USERNAME.github.io/rakuiina-printing/)  
+🔗 **Kunjungi Website:** [https://USERNAME.github.io/rakuiina-printing/](https://rikiardyan-create.github.io/rakuiina-printing/)  
 > Ganti `USERNAME` dengan username GitHub kamu setelah aktif di GitHub Pages.
 
 ---
